@@ -1,0 +1,7 @@
+bosdyn_api_msgs/ManipulationApiRequest command
+---
+bosdyn_api_msgs/ManipulationApiFeedbackResponse result
+bool success
+string message
+---
+bosdyn_api_msgs/ManipulationApiFeedbackResponse feedback

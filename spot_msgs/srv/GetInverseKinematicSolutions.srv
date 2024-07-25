@@ -1,0 +1,3 @@
+bosdyn_spot_api_msgs/InverseKinematicsRequest request
+---
+bosdyn_spot_api_msgs/InverseKinematicsResponse response
