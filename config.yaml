@@ -1,5 +1,3 @@
-# This is an example configuration file for Spot.  It is not used!
-
 /**:
   ros__parameters:
     # Spot Login Information
